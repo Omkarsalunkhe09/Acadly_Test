@@ -1,0 +1,8 @@
+
+    .movies{
+        height: 50px;
+        width: 206px;
+        border: 1px solid black;
+        overflow: scroll;
+        opacity: 0;
+    }
